@@ -1,15 +1,8 @@
-# Basic Sample Hardhat Project
+# Basic NFT minting platform
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Built with:
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+1. Front end: Html, Javascript, Metamask
+2. Backend: Nodejs, Express js, IPFS with the help of Piniata (https://docs.pinata.cloud/), Web3js
+3. Hardhat and solidity for deploying smart contract via alchemy node
+4. Deployed Smart contract address =>  0xec80c98011FEfe4b62857888BF469309117DA873
